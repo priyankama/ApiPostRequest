@@ -1,0 +1,4 @@
+For get request with parameter:
+Use @Query in place of @field
+Remove @formurlencoded
+Use @get in place of @post
